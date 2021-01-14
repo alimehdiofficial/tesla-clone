@@ -1,0 +1,17 @@
+.buttonPrimary {
+  background-color: #3e6ae1;
+  border: none;
+  padding: 12px 40px;
+  border-radius: 50px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  margin-bottom: 30px;
+  transition: all 0.4s;
+}
+
+.buttonPrimary:hover {
+  background-color: #3457b1;
+}
